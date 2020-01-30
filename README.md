@@ -1,4 +1,4 @@
-#Winning strategies in team play battle royale games: insights from the Playerunknown's Battleground Game Data
+# Winning strategies in team play battle royale games: insights from the Playerunknown's Battleground Game Data
 
 This is a course project I did with Ruixuan Li for the course "Application of Statistical Modeling" taught by Dr. Yajuan Si in the Program in Survey Methodology, Univerisity of Michigan.
 
